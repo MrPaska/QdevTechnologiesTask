@@ -1,4 +1,4 @@
-# Task for Qdev technologies
+# Task for Qdev Technologies
 
 ## The results I got:
 
